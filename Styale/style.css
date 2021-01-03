@@ -1,0 +1,222 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.log .imga{
+    display: inline-block;
+}
+.navbar{
+    float: right;
+}
+.navbar li {
+    display: inline;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: gray;
+    font-family: sans-serif;
+    padding: 28px 10px;
+    display: inline-block   ;
+}
+.navbar li a: hover {
+    color: dark;
+}
+.container{
+    width: 70%;
+    margin: auto;
+
+}
+
+#Banner{
+    color: black;
+    height: 80vh;
+    background-image: url(../images/fon.jpg);
+    background-size: cover;
+    background-position: center -200px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Banner  h2{
+    margin-bottom: 15px;
+   
+}
+#Banner h3{
+    padding-top: 60px;
+}
+#Banner button{
+    background-color: rgb(219, 176, 35);
+    padding: 10px;
+    margin: 10px;
+    color: dark;
+    font-family: fantasy;
+}
+#olll{
+    text-align: center;
+    margin-top: 30px;
+    font-family: serif;
+    color: rgb(71, 66, 66);
+   
+}
+.oodel{
+    transform: rotate(180deg);
+    
+}
+.oodell{
+    transform: rotate(180deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+.loto{
+    width: 50%;
+    margin: auto;
+}
+.pp{
+    text-align: center;
+    font-size: 13px;
+}
+.lotog{
+    text-align: center;
+}
+
+#JAdval{
+    background-color: #2D3E50;
+    text-align: center;
+    height: 920px;
+}
+.op{
+    color: rgb(180, 164, 164);
+    padding-top: 30px;
+    font-size: 20px;
+}
+.offff{
+    color: #F1F3F4;
+    font-family: fantasy;
+}
+.offf{
+    color: rgb(180, 164, 164);
+}
+.ottok{
+    color:  #F1F3F4;
+}
+
+.alll{
+    width: 50%;
+    display: inline-block;
+}
+.tugma{
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid gray;
+    text-decoration: none;
+    
+}
+.tugma:hover{
+    background-color: yellow;
+    text-decoration: none;
+}
+
+#jadvall{
+    padding-bottom: 50px;
+}
+.oop{
+    padding: 14px;
+    border: 1px solid yellow;
+    text-decoration: none;
+    background-color: yellow;
+}
+.oop:hover{
+    background-color: pink;
+    text-decoration: none;
+
+}
+.lok{
+    display: flex;
+}
+
+#kok{
+    background-color: gray;
+    color: white;
+   
+}
+#ogg{
+    background-color: blue;
+    color: white;
+    font-size: 23px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+   
+}
+#otish{
+    background-color: blue;
+    color: white;
+    font-size: 23px;
+    padding: 5px;
+    text-decoration: none;
+}
+.opoq{
+    background-color: yellow;
+    color: white;
+    font-size: 23px;
+    padding: 5px;
+    text-decoration: n;
+}
+
+
+
+.opet{
+   background-image: url(../images/Featured_background.jpg);
+   background-size: cover;
+   margin: 10px 0;
+   
+    height: 600px;
+    text-align: center;
+}
+.opto{
+    background-image: url(images/Featured_background.jpg);
+}
+
+#ruyxat{
+    background-color: #D1D8DE;
+    width: 500px;
+    border: none;
+}
+#qol{
+    padding-top:  7px;
+    padding-bottom: 7px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 420px;
+    background-color: yellow;
+    color: black;
+    text-decoration: none;
+}
+
+
+
+#aaa{
+    text-align: center;
+    color: rgb(74, 131, 148);
+    font-size: 30px;
+}
+
+
+
+#oxiri{
+    text-align: center;
+    background-color: #1A1C28;
+    color: gray;
+}
